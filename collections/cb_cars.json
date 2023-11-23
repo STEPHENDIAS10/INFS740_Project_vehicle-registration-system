@@ -1,0 +1,97 @@
+[{
+  "_id": {
+    "$oid": "6451405fee0a0ccdd07a123a"
+  },
+  "title": "A-Class",
+  "make": "Mercedes-Benz",
+  "year": "2022",
+  "image": "https://media.ed.edmunds-media.com/mercedes-benz/a-class/2021/oem/2021_mercedes-benz_a-class_sedan_a-220-4matic_fq_oem_1_1600.jpg",
+  "price": 500,
+  "createdAt": {
+    "$date": "2023-05-02T16:54:55.626Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-02T16:54:55.626Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64514166ee0a0ccdd07a1252"
+  },
+  "title": "Acadia",
+  "make": "GMC",
+  "year": "2022",
+  "image": "https://media.ed.edmunds-media.com/gmc/acadia/2022/oem/2022_gmc_acadia_4dr-suv_at4_fq_oem_1_1280.jpg",
+  "price": 500,
+  "createdAt": {
+    "$date": "2023-05-02T16:59:18.863Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-02T16:59:18.863Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "645141bbee0a0ccdd07a1259"
+  },
+  "title": "C-Class",
+  "make": "Mercedes-Benz",
+  "year": "2022",
+  "image": "https://cdn.jdpower.com/JDPA_2020%20Mercedes-AMG%20C63%20S%20Selenite%20Gray%20Front%20View.jpg",
+  "price": 450,
+  "createdAt": {
+    "$date": "2023-05-02T17:00:43.950Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-02T17:00:43.950Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64514242ee0a0ccdd07a1260"
+  },
+  "title": "Camry",
+  "make": "Toyota",
+  "year": "2022",
+  "image": "https://toyota-cms-media.s3.amazonaws.com/wp-content/uploads/2019/11/2020_Toyota_Camry_SE_Hybrid_01.jpg",
+  "price": 400,
+  "createdAt": {
+    "$date": "2023-05-02T17:02:58.179Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-02T17:02:58.179Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "645142d5ee0a0ccdd07a1267"
+  },
+  "title": "Bentayga",
+  "make": "Bentley",
+  "year": "2023",
+  "image": "https://hips.hearstapps.com/hmg-prod/images/bentayga-ewb-20-1652107013.jpg?crop=0.707xw:0.531xh;0.0935xw,0.263xh&resize=1200:*",
+  "price": 500,
+  "createdAt": {
+    "$date": "2023-05-02T17:05:25.011Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-02T17:05:25.011Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64514c8eee0a0ccdd07a137c"
+  },
+  "title": "A4",
+  "make": "Audi",
+  "year": "2023",
+  "image": "https://media.ed.edmunds-media.com/audi/a4/2022/oem/2022_audi_a4_sedan_prestige-s-line_fq_oem_8_600.jpg",
+  "price": 450,
+  "createdAt": {
+    "$date": "2023-05-02T17:46:54.959Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-02T17:46:54.959Z"
+  },
+  "__v": 0
+}]

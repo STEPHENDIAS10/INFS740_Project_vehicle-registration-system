@@ -1,0 +1,129 @@
+[{
+  "_id": {
+    "$oid": "645144d5ee0a0ccdd07a12b3"
+  },
+  "bookingId": {
+    "$oid": "645144b7ee0a0ccdd07a12a0"
+  },
+  "rating": 4.5,
+  "feedback": "Very Nice Car",
+  "createdAt": {
+    "$date": "2023-05-02T17:13:57.847Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-02T17:13:57.847Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64514543ee0a0ccdd07a12e6"
+  },
+  "bookingId": {
+    "$oid": "64514519ee0a0ccdd07a12c7"
+  },
+  "rating": 4,
+  "feedback": "good car",
+  "createdAt": {
+    "$date": "2023-05-02T17:15:47.447Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-02T17:15:47.447Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "645145e2ee0a0ccdd07a1323"
+  },
+  "bookingId": {
+    "$oid": "645145c3ee0a0ccdd07a131c"
+  },
+  "rating": 3,
+  "feedback": "not in a good condition",
+  "createdAt": {
+    "$date": "2023-05-02T17:18:26.557Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-02T17:18:26.557Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64514659ee0a0ccdd07a1346"
+  },
+  "bookingId": {
+    "$oid": "64514649ee0a0ccdd07a133f"
+  },
+  "rating": 4.5,
+  "feedback": "great car",
+  "createdAt": {
+    "$date": "2023-05-02T17:20:25.764Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-02T17:20:25.764Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "645146c4ee0a0ccdd07a1363"
+  },
+  "bookingId": {
+    "$oid": "645146adee0a0ccdd07a135c"
+  },
+  "rating": 5,
+  "feedback": "excellent car. Loved it",
+  "createdAt": {
+    "$date": "2023-05-02T17:22:12.194Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-02T17:22:12.194Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6453f1ab70540cbc8ca7e807"
+  },
+  "bookingId": {
+    "$oid": "6453f18d70540cbc8ca7e800"
+  },
+  "rating": 4.5,
+  "feedback": null,
+  "createdAt": {
+    "$date": "2023-05-04T17:55:55.022Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-04T17:56:23.193Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6453f5414d5dd6477b4c34b8"
+  },
+  "bookingId": {
+    "$oid": "6453f52e4d5dd6477b4c34b1"
+  },
+  "rating": 4,
+  "feedback": null,
+  "createdAt": {
+    "$date": "2023-05-04T18:11:13.224Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-04T20:53:25.429Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6453f5f64d5dd6477b4c34f7"
+  },
+  "bookingId": {
+    "$oid": "6453f5e04d5dd6477b4c34f0"
+  },
+  "rating": 2,
+  "feedback": "not in a good condition",
+  "createdAt": {
+    "$date": "2023-05-04T18:14:14.281Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-04T18:14:14.281Z"
+  },
+  "__v": 0
+}]

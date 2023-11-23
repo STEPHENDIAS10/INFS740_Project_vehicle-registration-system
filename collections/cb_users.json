@@ -1,0 +1,57 @@
+[{
+  "_id": {
+    "$oid": "64498de7801a3f22d561a68f"
+  },
+  "name": "raina",
+  "email": "raina48@gmail.com",
+  "username": "raina48",
+  "createdAt": {
+    "$date": "2023-04-26T20:47:35.903Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-26T20:47:35.903Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64514579ee0a0ccdd07a12f4"
+  },
+  "name": "virat",
+  "email": "virat18@gmail.com",
+  "username": "virat18",
+  "createdAt": {
+    "$date": "2023-05-02T17:16:41.903Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-02T17:16:41.903Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64514631ee0a0ccdd07a1337"
+  },
+  "name": "rohit",
+  "email": "rohit45@gmail.com",
+  "username": "rohit45",
+  "createdAt": {
+    "$date": "2023-05-02T17:19:45.358Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-02T17:19:45.358Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64514694ee0a0ccdd07a1354"
+  },
+  "name": "dhoni",
+  "email": "dhoni7@gmail.com",
+  "username": "dhoni7",
+  "createdAt": {
+    "$date": "2023-05-02T17:21:24.316Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-02T17:21:24.316Z"
+  },
+  "__v": 0
+}]
