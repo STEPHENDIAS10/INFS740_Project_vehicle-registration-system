@@ -1,7 +1,7 @@
 1) Create a MongoDB database named as "CarBooking"
 2) Create 4 collections namely: cb_bookings, cb_cars, cb_reviews, cb_users
 3) Import all 4 JSON files given in the ./collections folder
-4)creat a .env file with following 
+4) create a .env file in api folder with following 
 
 #DB
 DBURI= mongodb://127.0.0.1:27017/CarBooking
