@@ -69,7 +69,7 @@ function ViewCars () {
         <>
         <NavBar />
         <div className="px-20">
-            <h1 className="p-5 text-4xl font-bold">Cars</h1>
+            <h1 className="p-5 text-4xl font-bold">Available Vehicles</h1>
             {
                 cars.map(car => (
                     <Car 
@@ -80,18 +80,7 @@ function ViewCars () {
                 ))
             }
         </div>
-        <div className="px-20">
-            <h1 className="p-5 text-4xl font-bold">Bikes</h1>
-            {
-                cars.map(car => (
-                    <Car 
-                        car={car} 
-                        onBook={(car) => setToBook(car)}
-                        setCarToEdit={() => setToEdit(car)}
-                    />
-                ))
-            }
-        </div>
+        
         </>
     )
 }

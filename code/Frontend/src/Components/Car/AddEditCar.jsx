@@ -21,7 +21,7 @@ function AddEditCar ({ prefill, onDone }) {
             });
             if (!res.error) {
               onDone?.(res);
-              alert(prefill ? "Car updated" : "Car added");
+              alert(prefill ? "Vehicle updated" : "Vehicle added");
             }
             else if (res.error) {
                 alert(res.error);
@@ -39,10 +39,11 @@ function AddEditCar ({ prefill, onDone }) {
       <>
       <NavBar />
     <div className="mt-20 mb-6 flex w-100 flex-col h-screen my-auto items-center bgimg bg-cover">
+      <h1><b>Enter Car/Bike details...</b></h1>
       <form className='w-1/3' onSubmit={handleSubmit}>
             <>
                 <Label>
-                  Title
+                  Brand
                 </Label>
                 <Input 
                   name="title"
@@ -98,7 +99,7 @@ function AddEditCar ({ prefill, onDone }) {
           type="submit"
           loading={loading}
         >
-           { prefill ? "Update Car": "Add Car" }
+           { prefill ? "Update Vehicle": "Add Vehicle" }
         </Button>
       </form>
     </div>
